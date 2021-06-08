@@ -3,5 +3,5 @@
     "proxy_type":0,
     "threads":3000,
     "webhook_enable":0,
-    "webhook_url":"https://discord.com/api/webhooks/848512887491395615/wBspbozXsaCRKA-rsZSFCM76Tt7YwaQZ7N5OQ9VNkEXW7C2r4NAISUqkjMW7h0W6oRG6"
+    "webhook_url":"Your webhook"
 }
