@@ -14,6 +14,7 @@ open and run the install.bat
 then run the start.bat
 ```
 ### I'ts as easy as that
+
 | Features              |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |       
 | 1. Generator          | Generate your chosen amount twitch tokens that gets stored in a txt file                                                  |
