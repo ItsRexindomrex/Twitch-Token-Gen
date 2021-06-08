@@ -1,5 +1,4 @@
 <h1 align="center">Simple twitch token gen</h1>
-<div align="center">
 
 ### Setup
 
