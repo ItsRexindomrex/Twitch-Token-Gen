@@ -15,6 +15,12 @@ then run the start.bat
 ```
 ### I'ts as easy as that
 
+| Features    | Description                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| 1.Generator | Generate your chosen amount twitch tokens that gets stored in a txt file                           |
+| 2.Checker   | Check all of the twitch tokens you just generated for valid/invalid tokens                         |
+| 3.Proxy     | You can use proxies when checking tokens if you want to do so (may add autoscraping in the future) |
+
 | Features              |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |       
 | 1. Generator          | Generate your chosen amount twitch tokens that gets stored in a txt file                                                  |
