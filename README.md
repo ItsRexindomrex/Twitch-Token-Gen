@@ -1,5 +1,8 @@
 <h1 align="center">Simple twitch token gen</h1>
 
+![](https://img.shields.io/github/watchers/Rdimo/Twitch-Token-Gen?style=social) 
+![](https://img.shields.io/github/stars/Rdimo/Twitch-Token-Gent?style=social) 
+
 ### Setup
 
 - Installation
