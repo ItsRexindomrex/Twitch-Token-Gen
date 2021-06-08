@@ -164,7 +164,7 @@ o888o  o888o `Y8bod88P" o888o o888o o888o o888o `Y8bod8P'
 
     def TitleUpdate(self):
         while True:
-            self.SetTitle(f'[One Man Builds Twitch Token Checker] ^| HITS: {self.hits} ^| BADS: {self.bads} ^| RETRIES: {self.retries} ^| WEBHOOK RETRIES: {self.webhook_retries} ^| THREADS: {active_count()-1}')
+            self.SetTitle(f'[Twitch Token Checker] ^| HITS: {self.hits} ^| BADS: {self.bads} ^| RETRIES: {self.retries} ^| WEBHOOK RETRIES: {self.webhook_retries} ^| THREADS: {active_count()-1}')
             sleep(0.1)
 
     def TokenCheck(self,token):
