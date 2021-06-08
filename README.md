@@ -26,6 +26,6 @@ then run the start.bat
 Discord = iLikeBouncyBalls#6969
        also know as Rdimo
 
-### This gen was made by
+#### This gen was made by
 Love ❌
 code ✅
