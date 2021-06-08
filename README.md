@@ -8,13 +8,13 @@
 - Installation
 
 ```
-open and run the install.bat
+Run install.bat
 ```
 
 - Startup
        
 ```
-then run the start.bat
+Run start.bat
 ```
 
 | Features    | Description                                                                                        |
